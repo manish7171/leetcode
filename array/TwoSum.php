@@ -33,7 +33,7 @@
  * ***/
 class TwoSum
 {
-    public static function solution()
+    public static function solution(): array
     {
         $nums = [8,11,7,2];
         //$nums = [3,2,4];
