@@ -14,7 +14,7 @@
 class ContainerWithMostWater
 {
 
-    public static function solution()
+    public static function solution(): int
     {
         $height = [1,8,6,2,5,4,8,3,7];
         $l = 0;
@@ -32,4 +32,5 @@ class ContainerWithMostWater
         }
         return $res;
     }
+
 }
