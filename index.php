@@ -10,4 +10,5 @@ require('./array/ContainerWithMostWater.php');
 require('./binary/SumOfTwo.php');
 require('./binary/HammingWeight.php');
 require('./binary/CountBits.php');
-print_r(CountBits::solution());
+require('./binary/MissingNumber.php');
+print_r(MissingNumber::solution());

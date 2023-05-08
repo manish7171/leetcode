@@ -2,6 +2,9 @@
 
 class CountBits
 {
+    /*
+    *@return array
+    */
     public static function solution(): array
     {
         $n = 5;
